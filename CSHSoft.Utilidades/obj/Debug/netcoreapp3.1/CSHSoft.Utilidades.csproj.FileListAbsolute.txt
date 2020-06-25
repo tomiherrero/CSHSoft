@@ -7,3 +7,11 @@ D:\La Paz\Tercer Año. Analista de sistemas\Programación V\Project\CSHSoft\CSHS
 D:\La Paz\Tercer Año. Analista de sistemas\Programación V\Project\CSHSoft\CSHSoft\CSHSoft.Utilidades\obj\Debug\netcoreapp3.1\CSHSoft.Utilidades.dll
 D:\La Paz\Tercer Año. Analista de sistemas\Programación V\Project\CSHSoft\CSHSoft\CSHSoft.Utilidades\obj\Debug\netcoreapp3.1\CSHSoft.Utilidades.pdb
 D:\La Paz\Tercer Año. Analista de sistemas\Programación V\Project\CSHSoft\CSHSoft\CSHSoft.Utilidades\obj\Debug\netcoreapp3.1\CSHSoft.Utilidades.csprojAssemblyReference.cache
+C:\Programacion V\CSHSoft\CSHSoft.Utilidades\bin\Debug\netcoreapp3.1\CSHSoft.Utilidades.deps.json
+C:\Programacion V\CSHSoft\CSHSoft.Utilidades\bin\Debug\netcoreapp3.1\CSHSoft.Utilidades.dll
+C:\Programacion V\CSHSoft\CSHSoft.Utilidades\bin\Debug\netcoreapp3.1\CSHSoft.Utilidades.pdb
+C:\Programacion V\CSHSoft\CSHSoft.Utilidades\obj\Debug\netcoreapp3.1\CSHSoft.Utilidades.csproj.CoreCompileInputs.cache
+C:\Programacion V\CSHSoft\CSHSoft.Utilidades\obj\Debug\netcoreapp3.1\CSHSoft.Utilidades.AssemblyInfoInputs.cache
+C:\Programacion V\CSHSoft\CSHSoft.Utilidades\obj\Debug\netcoreapp3.1\CSHSoft.Utilidades.AssemblyInfo.cs
+C:\Programacion V\CSHSoft\CSHSoft.Utilidades\obj\Debug\netcoreapp3.1\CSHSoft.Utilidades.dll
+C:\Programacion V\CSHSoft\CSHSoft.Utilidades\obj\Debug\netcoreapp3.1\CSHSoft.Utilidades.pdb
