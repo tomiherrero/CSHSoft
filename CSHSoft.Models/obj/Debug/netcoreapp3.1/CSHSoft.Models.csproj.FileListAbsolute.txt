@@ -1,0 +1,9 @@
+D:\La Paz\Tercer Año. Analista de sistemas\Programación V\Project\CSHSoft\CSHSoft\CSHSoft.Models\bin\Debug\netcoreapp3.1\CSHSoft.Models.deps.json
+D:\La Paz\Tercer Año. Analista de sistemas\Programación V\Project\CSHSoft\CSHSoft\CSHSoft.Models\bin\Debug\netcoreapp3.1\CSHSoft.Models.dll
+D:\La Paz\Tercer Año. Analista de sistemas\Programación V\Project\CSHSoft\CSHSoft\CSHSoft.Models\obj\Debug\netcoreapp3.1\CSHSoft.Models.csprojAssemblyReference.cache
+D:\La Paz\Tercer Año. Analista de sistemas\Programación V\Project\CSHSoft\CSHSoft\CSHSoft.Models\obj\Debug\netcoreapp3.1\CSHSoft.Models.AssemblyInfoInputs.cache
+D:\La Paz\Tercer Año. Analista de sistemas\Programación V\Project\CSHSoft\CSHSoft\CSHSoft.Models\obj\Debug\netcoreapp3.1\CSHSoft.Models.AssemblyInfo.cs
+D:\La Paz\Tercer Año. Analista de sistemas\Programación V\Project\CSHSoft\CSHSoft\CSHSoft.Models\bin\Debug\netcoreapp3.1\CSHSoft.Models.pdb
+D:\La Paz\Tercer Año. Analista de sistemas\Programación V\Project\CSHSoft\CSHSoft\CSHSoft.Models\obj\Debug\netcoreapp3.1\CSHSoft.Models.csproj.CoreCompileInputs.cache
+D:\La Paz\Tercer Año. Analista de sistemas\Programación V\Project\CSHSoft\CSHSoft\CSHSoft.Models\obj\Debug\netcoreapp3.1\CSHSoft.Models.dll
+D:\La Paz\Tercer Año. Analista de sistemas\Programación V\Project\CSHSoft\CSHSoft\CSHSoft.Models\obj\Debug\netcoreapp3.1\CSHSoft.Models.pdb

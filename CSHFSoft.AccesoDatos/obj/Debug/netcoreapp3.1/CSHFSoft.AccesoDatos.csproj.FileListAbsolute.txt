@@ -1,0 +1,14 @@
+D:\La Paz\Tercer Año. Analista de sistemas\Programación V\Project\CSHSoft\CSHSoft\CSHFSoft.AccesoDatos\bin\Debug\netcoreapp3.1\CSHFSoft.AccesoDatos.deps.json
+D:\La Paz\Tercer Año. Analista de sistemas\Programación V\Project\CSHSoft\CSHSoft\CSHFSoft.AccesoDatos\bin\Debug\netcoreapp3.1\CSHFSoft.AccesoDatos.dll
+D:\La Paz\Tercer Año. Analista de sistemas\Programación V\Project\CSHSoft\CSHSoft\CSHFSoft.AccesoDatos\obj\Debug\netcoreapp3.1\CSHFSoft.AccesoDatos.csprojAssemblyReference.cache
+D:\La Paz\Tercer Año. Analista de sistemas\Programación V\Project\CSHSoft\CSHSoft\CSHFSoft.AccesoDatos\obj\Debug\netcoreapp3.1\CSHFSoft.AccesoDatos.AssemblyInfoInputs.cache
+D:\La Paz\Tercer Año. Analista de sistemas\Programación V\Project\CSHSoft\CSHSoft\CSHFSoft.AccesoDatos\obj\Debug\netcoreapp3.1\CSHFSoft.AccesoDatos.AssemblyInfo.cs
+D:\La Paz\Tercer Año. Analista de sistemas\Programación V\Project\CSHSoft\CSHSoft\CSHFSoft.AccesoDatos\bin\Debug\netcoreapp3.1\CSHFSoft.AccesoDatos.pdb
+D:\La Paz\Tercer Año. Analista de sistemas\Programación V\Project\CSHSoft\CSHSoft\CSHFSoft.AccesoDatos\bin\Debug\netcoreapp3.1\CSHSoft.Models.dll
+D:\La Paz\Tercer Año. Analista de sistemas\Programación V\Project\CSHSoft\CSHSoft\CSHFSoft.AccesoDatos\bin\Debug\netcoreapp3.1\CSHSoft.Utilidades.dll
+D:\La Paz\Tercer Año. Analista de sistemas\Programación V\Project\CSHSoft\CSHSoft\CSHFSoft.AccesoDatos\bin\Debug\netcoreapp3.1\CSHSoft.Models.pdb
+D:\La Paz\Tercer Año. Analista de sistemas\Programación V\Project\CSHSoft\CSHSoft\CSHFSoft.AccesoDatos\bin\Debug\netcoreapp3.1\CSHSoft.Utilidades.pdb
+D:\La Paz\Tercer Año. Analista de sistemas\Programación V\Project\CSHSoft\CSHSoft\CSHFSoft.AccesoDatos\obj\Debug\netcoreapp3.1\CSHFSoft.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\La Paz\Tercer Año. Analista de sistemas\Programación V\Project\CSHSoft\CSHSoft\CSHFSoft.AccesoDatos\obj\Debug\netcoreapp3.1\CSHFSoft.AccesoDatos.csproj.CopyComplete
+D:\La Paz\Tercer Año. Analista de sistemas\Programación V\Project\CSHSoft\CSHSoft\CSHFSoft.AccesoDatos\obj\Debug\netcoreapp3.1\CSHFSoft.AccesoDatos.dll
+D:\La Paz\Tercer Año. Analista de sistemas\Programación V\Project\CSHSoft\CSHSoft\CSHFSoft.AccesoDatos\obj\Debug\netcoreapp3.1\CSHFSoft.AccesoDatos.pdb
