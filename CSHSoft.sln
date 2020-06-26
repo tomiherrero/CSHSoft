@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSHSoft", "CSHSoft\CSHSoft.csproj", "{B8D807ED-9739-40AF-B022-2E5B515D19F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSHSoft", "CSHSoft\CSHSoft.csproj", "{B8D807ED-9739-40AF-B022-2E5B515D19F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSHFSoft.AccesoDatos", "CSHFSoft.AccesoDatos\CSHFSoft.AccesoDatos.csproj", "{A685033D-C5C1-49A8-853C-715D07765E52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSHFSoft.AccesoDatos", "CSHFSoft.AccesoDatos\CSHFSoft.AccesoDatos.csproj", "{A685033D-C5C1-49A8-853C-715D07765E52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSHSoft.Models", "CSHSoft.Models\CSHSoft.Models.csproj", "{92D5DA51-66EE-4833-A6A4-49DAB8639AF4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSHSoft.Models", "CSHSoft.Models\CSHSoft.Models.csproj", "{92D5DA51-66EE-4833-A6A4-49DAB8639AF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSHSoft.Utilidades", "CSHSoft.Utilidades\CSHSoft.Utilidades.csproj", "{DF470802-3EA0-4CC2-BB50-E5F7270E7A34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSHSoft.Utilidades", "CSHSoft.Utilidades\CSHSoft.Utilidades.csproj", "{DF470802-3EA0-4CC2-BB50-E5F7270E7A34}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

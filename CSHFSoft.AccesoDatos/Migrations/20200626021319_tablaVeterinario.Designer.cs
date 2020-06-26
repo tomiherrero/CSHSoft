@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CSHFSoft.AccesoDatos.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20200625053341_Veterinario")]
-    partial class Veterinario
+    [Migration("20200626021319_tablaVeterinario")]
+    partial class tablaVeterinario
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

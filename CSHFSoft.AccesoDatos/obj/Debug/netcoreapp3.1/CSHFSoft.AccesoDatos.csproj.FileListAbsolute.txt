@@ -26,3 +26,17 @@ C:\Programacion V\CSHSoft\CSHFSoft.AccesoDatos\obj\Debug\netcoreapp3.1\CSHFSoft.
 C:\Programacion V\CSHSoft\CSHFSoft.AccesoDatos\obj\Debug\netcoreapp3.1\CSHFSoft.AccesoDatos.csproj.CopyComplete
 C:\Programacion V\CSHSoft\CSHFSoft.AccesoDatos\obj\Debug\netcoreapp3.1\CSHFSoft.AccesoDatos.dll
 C:\Programacion V\CSHSoft\CSHFSoft.AccesoDatos\obj\Debug\netcoreapp3.1\CSHFSoft.AccesoDatos.pdb
+C:\Users\Usuario.WIN-24DGLIIQGDS\Desktop\Csh\CSHSoft\CSHFSoft.AccesoDatos\bin\Debug\netcoreapp3.1\CSHFSoft.AccesoDatos.deps.json
+C:\Users\Usuario.WIN-24DGLIIQGDS\Desktop\Csh\CSHSoft\CSHFSoft.AccesoDatos\bin\Debug\netcoreapp3.1\CSHFSoft.AccesoDatos.dll
+C:\Users\Usuario.WIN-24DGLIIQGDS\Desktop\Csh\CSHSoft\CSHFSoft.AccesoDatos\bin\Debug\netcoreapp3.1\CSHFSoft.AccesoDatos.pdb
+C:\Users\Usuario.WIN-24DGLIIQGDS\Desktop\Csh\CSHSoft\CSHFSoft.AccesoDatos\bin\Debug\netcoreapp3.1\CSHSoft.Models.dll
+C:\Users\Usuario.WIN-24DGLIIQGDS\Desktop\Csh\CSHSoft\CSHFSoft.AccesoDatos\bin\Debug\netcoreapp3.1\CSHSoft.Utilidades.dll
+C:\Users\Usuario.WIN-24DGLIIQGDS\Desktop\Csh\CSHSoft\CSHFSoft.AccesoDatos\bin\Debug\netcoreapp3.1\CSHSoft.Models.pdb
+C:\Users\Usuario.WIN-24DGLIIQGDS\Desktop\Csh\CSHSoft\CSHFSoft.AccesoDatos\bin\Debug\netcoreapp3.1\CSHSoft.Utilidades.pdb
+C:\Users\Usuario.WIN-24DGLIIQGDS\Desktop\Csh\CSHSoft\CSHFSoft.AccesoDatos\obj\Debug\netcoreapp3.1\CSHFSoft.AccesoDatos.csprojAssemblyReference.cache
+C:\Users\Usuario.WIN-24DGLIIQGDS\Desktop\Csh\CSHSoft\CSHFSoft.AccesoDatos\obj\Debug\netcoreapp3.1\CSHFSoft.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Usuario.WIN-24DGLIIQGDS\Desktop\Csh\CSHSoft\CSHFSoft.AccesoDatos\obj\Debug\netcoreapp3.1\CSHFSoft.AccesoDatos.AssemblyInfo.cs
+C:\Users\Usuario.WIN-24DGLIIQGDS\Desktop\Csh\CSHSoft\CSHFSoft.AccesoDatos\obj\Debug\netcoreapp3.1\CSHFSoft.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario.WIN-24DGLIIQGDS\Desktop\Csh\CSHSoft\CSHFSoft.AccesoDatos\obj\Debug\netcoreapp3.1\CSHFSoft.AccesoDatos.csproj.CopyComplete
+C:\Users\Usuario.WIN-24DGLIIQGDS\Desktop\Csh\CSHSoft\CSHFSoft.AccesoDatos\obj\Debug\netcoreapp3.1\CSHFSoft.AccesoDatos.dll
+C:\Users\Usuario.WIN-24DGLIIQGDS\Desktop\Csh\CSHSoft\CSHFSoft.AccesoDatos\obj\Debug\netcoreapp3.1\CSHFSoft.AccesoDatos.pdb

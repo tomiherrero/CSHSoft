@@ -15,3 +15,11 @@ C:\Programacion V\CSHSoft\CSHSoft.Utilidades\obj\Debug\netcoreapp3.1\CSHSoft.Uti
 C:\Programacion V\CSHSoft\CSHSoft.Utilidades\obj\Debug\netcoreapp3.1\CSHSoft.Utilidades.AssemblyInfo.cs
 C:\Programacion V\CSHSoft\CSHSoft.Utilidades\obj\Debug\netcoreapp3.1\CSHSoft.Utilidades.dll
 C:\Programacion V\CSHSoft\CSHSoft.Utilidades\obj\Debug\netcoreapp3.1\CSHSoft.Utilidades.pdb
+C:\Users\Usuario.WIN-24DGLIIQGDS\Desktop\Csh\CSHSoft\CSHSoft.Utilidades\bin\Debug\netcoreapp3.1\CSHSoft.Utilidades.deps.json
+C:\Users\Usuario.WIN-24DGLIIQGDS\Desktop\Csh\CSHSoft\CSHSoft.Utilidades\bin\Debug\netcoreapp3.1\CSHSoft.Utilidades.dll
+C:\Users\Usuario.WIN-24DGLIIQGDS\Desktop\Csh\CSHSoft\CSHSoft.Utilidades\bin\Debug\netcoreapp3.1\CSHSoft.Utilidades.pdb
+C:\Users\Usuario.WIN-24DGLIIQGDS\Desktop\Csh\CSHSoft\CSHSoft.Utilidades\obj\Debug\netcoreapp3.1\CSHSoft.Utilidades.AssemblyInfoInputs.cache
+C:\Users\Usuario.WIN-24DGLIIQGDS\Desktop\Csh\CSHSoft\CSHSoft.Utilidades\obj\Debug\netcoreapp3.1\CSHSoft.Utilidades.AssemblyInfo.cs
+C:\Users\Usuario.WIN-24DGLIIQGDS\Desktop\Csh\CSHSoft\CSHSoft.Utilidades\obj\Debug\netcoreapp3.1\CSHSoft.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario.WIN-24DGLIIQGDS\Desktop\Csh\CSHSoft\CSHSoft.Utilidades\obj\Debug\netcoreapp3.1\CSHSoft.Utilidades.dll
+C:\Users\Usuario.WIN-24DGLIIQGDS\Desktop\Csh\CSHSoft\CSHSoft.Utilidades\obj\Debug\netcoreapp3.1\CSHSoft.Utilidades.pdb

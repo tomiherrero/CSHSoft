@@ -16,3 +16,11 @@ C:\Programacion V\CSHSoft\CSHSoft.Models\obj\Debug\netcoreapp3.1\CSHSoft.Models.
 C:\Programacion V\CSHSoft\CSHSoft.Models\obj\Debug\netcoreapp3.1\CSHSoft.Models.AssemblyInfo.cs
 C:\Programacion V\CSHSoft\CSHSoft.Models\obj\Debug\netcoreapp3.1\CSHSoft.Models.dll
 C:\Programacion V\CSHSoft\CSHSoft.Models\obj\Debug\netcoreapp3.1\CSHSoft.Models.pdb
+C:\Users\Usuario.WIN-24DGLIIQGDS\Desktop\Csh\CSHSoft\CSHSoft.Models\bin\Debug\netcoreapp3.1\CSHSoft.Models.deps.json
+C:\Users\Usuario.WIN-24DGLIIQGDS\Desktop\Csh\CSHSoft\CSHSoft.Models\bin\Debug\netcoreapp3.1\CSHSoft.Models.dll
+C:\Users\Usuario.WIN-24DGLIIQGDS\Desktop\Csh\CSHSoft\CSHSoft.Models\bin\Debug\netcoreapp3.1\CSHSoft.Models.pdb
+C:\Users\Usuario.WIN-24DGLIIQGDS\Desktop\Csh\CSHSoft\CSHSoft.Models\obj\Debug\netcoreapp3.1\CSHSoft.Models.AssemblyInfoInputs.cache
+C:\Users\Usuario.WIN-24DGLIIQGDS\Desktop\Csh\CSHSoft\CSHSoft.Models\obj\Debug\netcoreapp3.1\CSHSoft.Models.AssemblyInfo.cs
+C:\Users\Usuario.WIN-24DGLIIQGDS\Desktop\Csh\CSHSoft\CSHSoft.Models\obj\Debug\netcoreapp3.1\CSHSoft.Models.csproj.CoreCompileInputs.cache
+C:\Users\Usuario.WIN-24DGLIIQGDS\Desktop\Csh\CSHSoft\CSHSoft.Models\obj\Debug\netcoreapp3.1\CSHSoft.Models.dll
+C:\Users\Usuario.WIN-24DGLIIQGDS\Desktop\Csh\CSHSoft\CSHSoft.Models\obj\Debug\netcoreapp3.1\CSHSoft.Models.pdb
