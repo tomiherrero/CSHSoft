@@ -34,8 +34,9 @@ namespace CSHFSoft.AccesoDatos.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("Internacion")
-                        .HasColumnType("int");
+                    b.Property<string>("Internacion")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Observaciones")
                         .HasColumnType("nvarchar(max)");

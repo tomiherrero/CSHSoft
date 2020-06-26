@@ -55,7 +55,7 @@ namespace CSHFSoft.AccesoDatos.Migrations
                     RazonSocial = table.Column<string>(nullable: false),
                     Direccion = table.Column<string>(nullable: false),
                     HorarioAtencion = table.Column<string>(nullable: false),
-                    Internacion = table.Column<int>(nullable: false),
+                    Internacion = table.Column<string>(nullable: false),
                     Observaciones = table.Column<string>(nullable: true)
                 },
                 constraints: table =>

@@ -1,0 +1,68 @@
+﻿@model CSHSoft.Models.Veterinario
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br />
+<br />
+
+<h3 class="text-center">Agregar veterinaria</h3>
+<form method="post" asp-action="Create">
+    <div class="row px-2 mx-2 border">
+        <div asp-validation-summary="ModelOnly" class="text-danger"> </div>@* Valida el campo obligatorio *@
+        <div class="col-10 offset-1 mt-4">
+            <div class="col-4">
+                <label asp-for="RazonSocial"></label>
+            </div>
+            <div class="col-8">
+                <input asp-for="RazonSocial" class="form-control" />
+                <span asp-validation-for="RazonSocial" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="col-10 offset-1 mt-4">
+            <div class="col-4">
+                <label asp-for="Direccion"></label>
+            </div>
+            <div class="col-8">
+                <input asp-for="Direccion" class="form-control" />
+                <span asp-validation-for="Direccion" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="col-10 offset-1 mt-4">
+            <div class="col-4">
+                <label asp-for="HorarioAtencion"></label>
+            </div>
+            <div class="col-8">
+                <input asp-for="HorarioAtencion" class="form-control" />
+                <span asp-validation-for="HorarioAtencion" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="col-10 offset-1 mt-4">
+            <div class="col-4">
+                <label asp-for="Internacion"></label>
+            </div>
+            <div class="col-8">
+                <input asp-for="Internacion" class="form-control" />
+                <span asp-validation-for="Internacion" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="col-10 offset-1 mt-4">
+            <div class="col-4">
+                <label asp-for="Observaciones"></label>
+            </div>
+            <div class="col-8">
+                <input asp-for="Observaciones" class="form-control" />
+                <span asp-validation-for="Observaciones" class="text-danger"></span>
+            </div>
+        </div>
+        <br />
+        <div class="form-group row">
+            <div class="col-8 offset-4">
+                <partial name="_VistaCrearVolver" />
+            </div>
+        </div>
+    </div>
+
+</form>
+

@@ -14,14 +14,14 @@ function cargarDatatable() {
         },
         "columns": [
            
-            { "data": "IdVeterinario", "width": "20%" },
+            { "data": "idVeterinario", "width": "20%" },
             { "data": "RazonSocial", "width": "20%" },
             { "data": "Direccion", "width": "20%" },
             { "data": "HorarioAtencion", "width": "20%" },
             { "data": "Internacion", "width": "20%" },
             { "data": "Observaciones", "width": "20%" },
             {
-                "data": "IdVeterinario",
+                "data": "idVeterinario",
                 "render": function (data) {
                     return `<div class="text-center">
                             <a href='/Admin/Veterinarios/Edit/${data}' class='btn btn-success text-white' style='cursor:pointer; width:100px;'>

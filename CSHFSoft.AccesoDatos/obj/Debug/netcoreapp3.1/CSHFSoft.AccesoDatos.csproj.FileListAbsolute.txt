@@ -40,3 +40,17 @@ C:\Users\Usuario.WIN-24DGLIIQGDS\Desktop\Csh\CSHSoft\CSHFSoft.AccesoDatos\obj\De
 C:\Users\Usuario.WIN-24DGLIIQGDS\Desktop\Csh\CSHSoft\CSHFSoft.AccesoDatos\obj\Debug\netcoreapp3.1\CSHFSoft.AccesoDatos.csproj.CopyComplete
 C:\Users\Usuario.WIN-24DGLIIQGDS\Desktop\Csh\CSHSoft\CSHFSoft.AccesoDatos\obj\Debug\netcoreapp3.1\CSHFSoft.AccesoDatos.dll
 C:\Users\Usuario.WIN-24DGLIIQGDS\Desktop\Csh\CSHSoft\CSHFSoft.AccesoDatos\obj\Debug\netcoreapp3.1\CSHFSoft.AccesoDatos.pdb
+C:\Desarrollos Web\CSHSoft\CSHFSoft.AccesoDatos\bin\Debug\netcoreapp3.1\CSHFSoft.AccesoDatos.deps.json
+C:\Desarrollos Web\CSHSoft\CSHFSoft.AccesoDatos\bin\Debug\netcoreapp3.1\CSHFSoft.AccesoDatos.dll
+C:\Desarrollos Web\CSHSoft\CSHFSoft.AccesoDatos\bin\Debug\netcoreapp3.1\CSHFSoft.AccesoDatos.pdb
+C:\Desarrollos Web\CSHSoft\CSHFSoft.AccesoDatos\bin\Debug\netcoreapp3.1\CSHSoft.Models.dll
+C:\Desarrollos Web\CSHSoft\CSHFSoft.AccesoDatos\bin\Debug\netcoreapp3.1\CSHSoft.Utilidades.dll
+C:\Desarrollos Web\CSHSoft\CSHFSoft.AccesoDatos\bin\Debug\netcoreapp3.1\CSHSoft.Models.pdb
+C:\Desarrollos Web\CSHSoft\CSHFSoft.AccesoDatos\bin\Debug\netcoreapp3.1\CSHSoft.Utilidades.pdb
+C:\Desarrollos Web\CSHSoft\CSHFSoft.AccesoDatos\obj\Debug\netcoreapp3.1\CSHFSoft.AccesoDatos.csprojAssemblyReference.cache
+C:\Desarrollos Web\CSHSoft\CSHFSoft.AccesoDatos\obj\Debug\netcoreapp3.1\CSHFSoft.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Desarrollos Web\CSHSoft\CSHFSoft.AccesoDatos\obj\Debug\netcoreapp3.1\CSHFSoft.AccesoDatos.AssemblyInfoInputs.cache
+C:\Desarrollos Web\CSHSoft\CSHFSoft.AccesoDatos\obj\Debug\netcoreapp3.1\CSHFSoft.AccesoDatos.AssemblyInfo.cs
+C:\Desarrollos Web\CSHSoft\CSHFSoft.AccesoDatos\obj\Debug\netcoreapp3.1\CSHFSoft.AccesoDatos.csproj.CopyComplete
+C:\Desarrollos Web\CSHSoft\CSHFSoft.AccesoDatos\obj\Debug\netcoreapp3.1\CSHFSoft.AccesoDatos.dll
+C:\Desarrollos Web\CSHSoft\CSHFSoft.AccesoDatos\obj\Debug\netcoreapp3.1\CSHFSoft.AccesoDatos.pdb

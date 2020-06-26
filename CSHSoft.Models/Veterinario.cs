@@ -24,7 +24,7 @@ namespace CSHSoft.Models
 
         [Required(ErrorMessage = "Ingresar si tiene internación")]
         [Display(Name = "Internación")]
-        public int Internacion { get; set; }
+        public string Internacion { get; set; }
 
         public string Observaciones { get; set; }
     }
