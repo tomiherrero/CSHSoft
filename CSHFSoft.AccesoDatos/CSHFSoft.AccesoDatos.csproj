@@ -5,15 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Migrations\20200626021319_tablaVeterinario.cs" />
-    <Compile Remove="Migrations\20200626021319_tablaVeterinario.Designer.cs" />
-    <Compile Remove="Migrations\20200626032837_tablaVeterinario.cs" />
-    <Compile Remove="Migrations\20200626032837_tablaVeterinario.Designer.cs" />
-    <Compile Remove="Migrations\20200626040554_tablaVeterinario.cs" />
-    <Compile Remove="Migrations\20200626040554_tablaVeterinario.Designer.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.5" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.2.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.5" />

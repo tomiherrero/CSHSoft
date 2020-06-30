@@ -1,24 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\La Paz\\Tercer Año. Analista de sistemas\\Programación V\\Project\\CSHSoft\\CSHSoft\\CSHSoft.Utilidades\\CSHSoft.Utilidades.csproj": {}
+    "C:\\Programacion V\\CSHSoft\\CSHSoft.Utilidades\\CSHSoft.Utilidades.csproj": {}
   },
   "projects": {
-    "D:\\La Paz\\Tercer Año. Analista de sistemas\\Programación V\\Project\\CSHSoft\\CSHSoft\\CSHSoft.Utilidades\\CSHSoft.Utilidades.csproj": {
+    "C:\\Programacion V\\CSHSoft\\CSHSoft.Utilidades\\CSHSoft.Utilidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\La Paz\\Tercer Año. Analista de sistemas\\Programación V\\Project\\CSHSoft\\CSHSoft\\CSHSoft.Utilidades\\CSHSoft.Utilidades.csproj",
+        "projectUniqueName": "C:\\Programacion V\\CSHSoft\\CSHSoft.Utilidades\\CSHSoft.Utilidades.csproj",
         "projectName": "CSHSoft.Utilidades",
-        "projectPath": "D:\\La Paz\\Tercer Año. Analista de sistemas\\Programación V\\Project\\CSHSoft\\CSHSoft\\CSHSoft.Utilidades\\CSHSoft.Utilidades.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\La Paz\\Tercer Año. Analista de sistemas\\Programación V\\Project\\CSHSoft\\CSHSoft\\CSHSoft.Utilidades\\obj\\",
+        "projectPath": "C:\\Programacion V\\CSHSoft\\CSHSoft.Utilidades\\CSHSoft.Utilidades.csproj",
+        "packagesPath": "C:\\Users\\Tomas\\.nuget\\packages\\",
+        "outputPath": "C:\\Programacion V\\CSHSoft\\CSHSoft.Utilidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Tomas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

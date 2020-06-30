@@ -3375,10 +3375,7 @@
         },
         "runtime": {
           "bin/placeholder/CSHSoft.Utilidades.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       }
     }
   },
@@ -10064,24 +10061,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Tomas\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\La Paz\\Tercer Año. Analista de sistemas\\Programación V\\Project\\CSHSoft\\CSHSoft\\CSHSoft\\CSHSoft.csproj",
+      "projectUniqueName": "C:\\Programacion V\\CSHSoft\\CSHSoft\\CSHSoft.csproj",
       "projectName": "CSHSoft",
-      "projectPath": "D:\\La Paz\\Tercer Año. Analista de sistemas\\Programación V\\Project\\CSHSoft\\CSHSoft\\CSHSoft\\CSHSoft.csproj",
-      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "D:\\La Paz\\Tercer Año. Analista de sistemas\\Programación V\\Project\\CSHSoft\\CSHSoft\\CSHSoft\\obj\\",
+      "projectPath": "C:\\Programacion V\\CSHSoft\\CSHSoft\\CSHSoft.csproj",
+      "packagesPath": "C:\\Users\\Tomas\\.nuget\\packages\\",
+      "outputPath": "C:\\Programacion V\\CSHSoft\\CSHSoft\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Tomas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -10093,8 +10091,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\La Paz\\Tercer Año. Analista de sistemas\\Programación V\\Project\\CSHSoft\\CSHSoft\\CSHFSoft.AccesoDatos\\CSHFSoft.AccesoDatos.csproj": {
-              "projectPath": "D:\\La Paz\\Tercer Año. Analista de sistemas\\Programación V\\Project\\CSHSoft\\CSHSoft\\CSHFSoft.AccesoDatos\\CSHFSoft.AccesoDatos.csproj"
+            "C:\\Programacion V\\CSHSoft\\CSHFSoft.AccesoDatos\\CSHFSoft.AccesoDatos.csproj": {
+              "projectPath": "C:\\Programacion V\\CSHSoft\\CSHFSoft.AccesoDatos\\CSHFSoft.AccesoDatos.csproj"
             }
           }
         }

@@ -16,9 +16,11 @@ namespace CSHFSoft.AccesoDatos.Data
         {
             _db = db;
             Veterinario = new VeterinarioRepository(_db);
+            Usuario = new UsuarioRepository(_db);
         }
         public IVeterinarioRepository Veterinario { get; private set; }
 
+        public IUsuarioRepository Usuario { get; private set; }
         public void Dispose()
         {
             _db.Dispose();    

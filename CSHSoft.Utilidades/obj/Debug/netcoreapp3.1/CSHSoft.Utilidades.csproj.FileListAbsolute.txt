@@ -32,3 +32,4 @@ C:\Desarrollos Web\CSHSoft\CSHSoft.Utilidades\obj\Debug\netcoreapp3.1\CSHSoft.Ut
 C:\Desarrollos Web\CSHSoft\CSHSoft.Utilidades\obj\Debug\netcoreapp3.1\CSHSoft.Utilidades.pdb
 C:\Desarrollos Web\CSHSoft\CSHSoft.Utilidades\obj\Debug\netcoreapp3.1\CSHSoft.Utilidades.csprojAssemblyReference.cache
 D:\La Paz\Tercer Año. Analista de sistemas\Programación V\Project\CSHSoft\CSHSoft\CSHSoft.Utilidades\obj\Debug\netcoreapp3.1\CSHSoft.Utilidades.csproj.CoreCompileInputs.cache
+C:\Programacion V\CSHSoft\CSHSoft.Utilidades\obj\Debug\netcoreapp3.1\CSHSoft.Utilidades.csprojAssemblyReference.cache

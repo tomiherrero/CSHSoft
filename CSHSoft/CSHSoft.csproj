@@ -20,6 +20,10 @@
     <ProjectReference Include="..\CSHFSoft.AccesoDatos\CSHFSoft.AccesoDatos.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Areas\Admin\Views\Usuario\" />
+  </ItemGroup>
+
   <ProjectExtensions><VisualStudio><UserProperties appsettings_1json__JsonSchema="" /></VisualStudio></ProjectExtensions>
 
 </Project>

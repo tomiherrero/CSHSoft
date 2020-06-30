@@ -9324,24 +9324,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Tomas\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\La Paz\\Tercer Año. Analista de sistemas\\Programación V\\Project\\CSHSoft\\CSHSoft\\CSHFSoft.AccesoDatos\\CSHFSoft.AccesoDatos.csproj",
+      "projectUniqueName": "C:\\Programacion V\\CSHSoft\\CSHFSoft.AccesoDatos\\CSHFSoft.AccesoDatos.csproj",
       "projectName": "CSHFSoft.AccesoDatos",
-      "projectPath": "D:\\La Paz\\Tercer Año. Analista de sistemas\\Programación V\\Project\\CSHSoft\\CSHSoft\\CSHFSoft.AccesoDatos\\CSHFSoft.AccesoDatos.csproj",
-      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "D:\\La Paz\\Tercer Año. Analista de sistemas\\Programación V\\Project\\CSHSoft\\CSHSoft\\CSHFSoft.AccesoDatos\\obj\\",
+      "projectPath": "C:\\Programacion V\\CSHSoft\\CSHFSoft.AccesoDatos\\CSHFSoft.AccesoDatos.csproj",
+      "packagesPath": "C:\\Users\\Tomas\\.nuget\\packages\\",
+      "outputPath": "C:\\Programacion V\\CSHSoft\\CSHFSoft.AccesoDatos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Tomas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -9353,11 +9354,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\La Paz\\Tercer Año. Analista de sistemas\\Programación V\\Project\\CSHSoft\\CSHSoft\\CSHSoft.Models\\CSHSoft.Models.csproj": {
-              "projectPath": "D:\\La Paz\\Tercer Año. Analista de sistemas\\Programación V\\Project\\CSHSoft\\CSHSoft\\CSHSoft.Models\\CSHSoft.Models.csproj"
+            "C:\\Programacion V\\CSHSoft\\CSHSoft.Models\\CSHSoft.Models.csproj": {
+              "projectPath": "C:\\Programacion V\\CSHSoft\\CSHSoft.Models\\CSHSoft.Models.csproj"
             },
-            "D:\\La Paz\\Tercer Año. Analista de sistemas\\Programación V\\Project\\CSHSoft\\CSHSoft\\CSHSoft.Utilidades\\CSHSoft.Utilidades.csproj": {
-              "projectPath": "D:\\La Paz\\Tercer Año. Analista de sistemas\\Programación V\\Project\\CSHSoft\\CSHSoft\\CSHSoft.Utilidades\\CSHSoft.Utilidades.csproj"
+            "C:\\Programacion V\\CSHSoft\\CSHSoft.Utilidades\\CSHSoft.Utilidades.csproj": {
+              "projectPath": "C:\\Programacion V\\CSHSoft\\CSHSoft.Utilidades\\CSHSoft.Utilidades.csproj"
             }
           }
         }

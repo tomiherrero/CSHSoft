@@ -8,7 +8,7 @@ namespace CSHFSoft.AccesoDatos.Data.Repository
     {
         IVeterinarioRepository Veterinario { get; }
 
-
+        IUsuarioRepository Usuario { get;  }
         void Save();
 
     }
