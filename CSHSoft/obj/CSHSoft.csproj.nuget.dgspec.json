@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programacion V\\CSHSoft\\CSHSoft\\CSHSoft.csproj": {}
+    "C:\\Users\\Usuario.WIN-24DGLIIQGDS\\Desktop\\CSH!\\CSHSoft\\CSHSoft\\CSHSoft.csproj": {}
   },
   "projects": {
-    "C:\\Programacion V\\CSHSoft\\CSHFSoft.AccesoDatos\\CSHFSoft.AccesoDatos.csproj": {
+    "C:\\Users\\Usuario.WIN-24DGLIIQGDS\\Desktop\\CSH!\\CSHSoft\\CSHFSoft.AccesoDatos\\CSHFSoft.AccesoDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programacion V\\CSHSoft\\CSHFSoft.AccesoDatos\\CSHFSoft.AccesoDatos.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario.WIN-24DGLIIQGDS\\Desktop\\CSH!\\CSHSoft\\CSHFSoft.AccesoDatos\\CSHFSoft.AccesoDatos.csproj",
         "projectName": "CSHFSoft.AccesoDatos",
-        "projectPath": "C:\\Programacion V\\CSHSoft\\CSHFSoft.AccesoDatos\\CSHFSoft.AccesoDatos.csproj",
-        "packagesPath": "C:\\Users\\Tomas\\.nuget\\packages\\",
-        "outputPath": "C:\\Programacion V\\CSHSoft\\CSHFSoft.AccesoDatos\\obj\\",
+        "projectPath": "C:\\Users\\Usuario.WIN-24DGLIIQGDS\\Desktop\\CSH!\\CSHSoft\\CSHFSoft.AccesoDatos\\CSHFSoft.AccesoDatos.csproj",
+        "packagesPath": "C:\\Users\\Usuario.WIN-24DGLIIQGDS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario.WIN-24DGLIIQGDS\\Desktop\\CSH!\\CSHSoft\\CSHFSoft.AccesoDatos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Tomas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario.WIN-24DGLIIQGDS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -31,11 +32,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Programacion V\\CSHSoft\\CSHSoft.Models\\CSHSoft.Models.csproj": {
-                "projectPath": "C:\\Programacion V\\CSHSoft\\CSHSoft.Models\\CSHSoft.Models.csproj"
+              "C:\\Users\\Usuario.WIN-24DGLIIQGDS\\Desktop\\CSH!\\CSHSoft\\CSHSoft.Models\\CSHSoft.Models.csproj": {
+                "projectPath": "C:\\Users\\Usuario.WIN-24DGLIIQGDS\\Desktop\\CSH!\\CSHSoft\\CSHSoft.Models\\CSHSoft.Models.csproj"
               },
-              "C:\\Programacion V\\CSHSoft\\CSHSoft.Utilidades\\CSHSoft.Utilidades.csproj": {
-                "projectPath": "C:\\Programacion V\\CSHSoft\\CSHSoft.Utilidades\\CSHSoft.Utilidades.csproj"
+              "C:\\Users\\Usuario.WIN-24DGLIIQGDS\\Desktop\\CSH!\\CSHSoft\\CSHSoft.Utilidades\\CSHSoft.Utilidades.csproj": {
+                "projectPath": "C:\\Users\\Usuario.WIN-24DGLIIQGDS\\Desktop\\CSH!\\CSHSoft\\CSHSoft.Utilidades\\CSHSoft.Utilidades.csproj"
               }
             }
           }
@@ -88,24 +89,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Programacion V\\CSHSoft\\CSHSoft.Models\\CSHSoft.Models.csproj": {
+    "C:\\Users\\Usuario.WIN-24DGLIIQGDS\\Desktop\\CSH!\\CSHSoft\\CSHSoft.Models\\CSHSoft.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programacion V\\CSHSoft\\CSHSoft.Models\\CSHSoft.Models.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario.WIN-24DGLIIQGDS\\Desktop\\CSH!\\CSHSoft\\CSHSoft.Models\\CSHSoft.Models.csproj",
         "projectName": "CSHSoft.Models",
-        "projectPath": "C:\\Programacion V\\CSHSoft\\CSHSoft.Models\\CSHSoft.Models.csproj",
-        "packagesPath": "C:\\Users\\Tomas\\.nuget\\packages\\",
-        "outputPath": "C:\\Programacion V\\CSHSoft\\CSHSoft.Models\\obj\\",
+        "projectPath": "C:\\Users\\Usuario.WIN-24DGLIIQGDS\\Desktop\\CSH!\\CSHSoft\\CSHSoft.Models\\CSHSoft.Models.csproj",
+        "packagesPath": "C:\\Users\\Usuario.WIN-24DGLIIQGDS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario.WIN-24DGLIIQGDS\\Desktop\\CSH!\\CSHSoft\\CSHSoft.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Tomas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario.WIN-24DGLIIQGDS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -154,24 +156,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Programacion V\\CSHSoft\\CSHSoft.Utilidades\\CSHSoft.Utilidades.csproj": {
+    "C:\\Users\\Usuario.WIN-24DGLIIQGDS\\Desktop\\CSH!\\CSHSoft\\CSHSoft.Utilidades\\CSHSoft.Utilidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programacion V\\CSHSoft\\CSHSoft.Utilidades\\CSHSoft.Utilidades.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario.WIN-24DGLIIQGDS\\Desktop\\CSH!\\CSHSoft\\CSHSoft.Utilidades\\CSHSoft.Utilidades.csproj",
         "projectName": "CSHSoft.Utilidades",
-        "projectPath": "C:\\Programacion V\\CSHSoft\\CSHSoft.Utilidades\\CSHSoft.Utilidades.csproj",
-        "packagesPath": "C:\\Users\\Tomas\\.nuget\\packages\\",
-        "outputPath": "C:\\Programacion V\\CSHSoft\\CSHSoft.Utilidades\\obj\\",
+        "projectPath": "C:\\Users\\Usuario.WIN-24DGLIIQGDS\\Desktop\\CSH!\\CSHSoft\\CSHSoft.Utilidades\\CSHSoft.Utilidades.csproj",
+        "packagesPath": "C:\\Users\\Usuario.WIN-24DGLIIQGDS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario.WIN-24DGLIIQGDS\\Desktop\\CSH!\\CSHSoft\\CSHSoft.Utilidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Tomas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario.WIN-24DGLIIQGDS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -219,24 +222,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Programacion V\\CSHSoft\\CSHSoft\\CSHSoft.csproj": {
+    "C:\\Users\\Usuario.WIN-24DGLIIQGDS\\Desktop\\CSH!\\CSHSoft\\CSHSoft\\CSHSoft.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programacion V\\CSHSoft\\CSHSoft\\CSHSoft.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario.WIN-24DGLIIQGDS\\Desktop\\CSH!\\CSHSoft\\CSHSoft\\CSHSoft.csproj",
         "projectName": "CSHSoft",
-        "projectPath": "C:\\Programacion V\\CSHSoft\\CSHSoft\\CSHSoft.csproj",
-        "packagesPath": "C:\\Users\\Tomas\\.nuget\\packages\\",
-        "outputPath": "C:\\Programacion V\\CSHSoft\\CSHSoft\\obj\\",
+        "projectPath": "C:\\Users\\Usuario.WIN-24DGLIIQGDS\\Desktop\\CSH!\\CSHSoft\\CSHSoft\\CSHSoft.csproj",
+        "packagesPath": "C:\\Users\\Usuario.WIN-24DGLIIQGDS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario.WIN-24DGLIIQGDS\\Desktop\\CSH!\\CSHSoft\\CSHSoft\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Tomas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario.WIN-24DGLIIQGDS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -250,8 +254,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Programacion V\\CSHSoft\\CSHFSoft.AccesoDatos\\CSHFSoft.AccesoDatos.csproj": {
-                "projectPath": "C:\\Programacion V\\CSHSoft\\CSHFSoft.AccesoDatos\\CSHFSoft.AccesoDatos.csproj"
+              "C:\\Users\\Usuario.WIN-24DGLIIQGDS\\Desktop\\CSH!\\CSHSoft\\CSHFSoft.AccesoDatos\\CSHFSoft.AccesoDatos.csproj": {
+                "projectPath": "C:\\Users\\Usuario.WIN-24DGLIIQGDS\\Desktop\\CSH!\\CSHSoft\\CSHFSoft.AccesoDatos\\CSHFSoft.AccesoDatos.csproj"
               }
             }
           }
@@ -316,7 +320,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

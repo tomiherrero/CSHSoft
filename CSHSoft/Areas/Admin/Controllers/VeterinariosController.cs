@@ -4,10 +4,13 @@ using System.Linq;
 using System.Threading.Tasks;
 using CSHFSoft.AccesoDatos.Data.Repository;
 using CSHSoft.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CSHSoft.Areas.Admin.Controllers
-{[Area("Admin")]
+
+{   [Authorize] 
+    [Area("Admin")]
     public class VeterinariosController : Controller
     {
         private readonly IContenedorTrabajo _contenedorTrabajo;

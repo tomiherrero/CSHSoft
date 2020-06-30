@@ -16,6 +16,7 @@ using CSHFSoft.AccesoDatos.Data.Repository;
 using CSHFSoft.AccesoDatos.Data;
 using Microsoft.AspNetCore.Identity.UI.Services;
 using CSHSoft.Utilidades;
+using CSHSoft.Models;
 
 namespace CSHSoft
 {
@@ -34,7 +35,8 @@ namespace CSHSoft
             services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlServer(
                     Configuration.GetConnectionString("DefaultConnection")));
-            services.AddIdentity<IdentityUser, IdentityRole>(options => options.SignIn.RequireConfirmedAccount = true)
+            services.AddIdentity<ApplicationUser, IdentityRole>(options => options.SignIn.RequireConfirmedAccount = true)
+               .AddRoleManager<RoleManager<IdentityRole>>()
                 .AddEntityFrameworkStores<ApplicationDbContext>()
                 .AddDefaultTokenProviders();
 

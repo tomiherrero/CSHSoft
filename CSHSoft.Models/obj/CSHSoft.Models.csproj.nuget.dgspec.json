@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programacion V\\CSHSoft\\CSHSoft.Models\\CSHSoft.Models.csproj": {}
+    "C:\\Users\\Usuario.WIN-24DGLIIQGDS\\Desktop\\CSH!\\CSHSoft\\CSHSoft.Models\\CSHSoft.Models.csproj": {}
   },
   "projects": {
-    "C:\\Programacion V\\CSHSoft\\CSHSoft.Models\\CSHSoft.Models.csproj": {
+    "C:\\Users\\Usuario.WIN-24DGLIIQGDS\\Desktop\\CSH!\\CSHSoft\\CSHSoft.Models\\CSHSoft.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programacion V\\CSHSoft\\CSHSoft.Models\\CSHSoft.Models.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario.WIN-24DGLIIQGDS\\Desktop\\CSH!\\CSHSoft\\CSHSoft.Models\\CSHSoft.Models.csproj",
         "projectName": "CSHSoft.Models",
-        "projectPath": "C:\\Programacion V\\CSHSoft\\CSHSoft.Models\\CSHSoft.Models.csproj",
-        "packagesPath": "C:\\Users\\Tomas\\.nuget\\packages\\",
-        "outputPath": "C:\\Programacion V\\CSHSoft\\CSHSoft.Models\\obj\\",
+        "projectPath": "C:\\Users\\Usuario.WIN-24DGLIIQGDS\\Desktop\\CSH!\\CSHSoft\\CSHSoft.Models\\CSHSoft.Models.csproj",
+        "packagesPath": "C:\\Users\\Usuario.WIN-24DGLIIQGDS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario.WIN-24DGLIIQGDS\\Desktop\\CSH!\\CSHSoft\\CSHSoft.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Tomas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario.WIN-24DGLIIQGDS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -66,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

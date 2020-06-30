@@ -4,11 +4,13 @@ using System.Linq;
 using System.Security.Claims;
 using System.Threading.Tasks;
 using CSHFSoft.AccesoDatos.Data.Repository;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.CodeAnalysis.CSharp.Syntax;
 
 namespace CSHSoft.Areas.Admin.Controllers
 {
+    [Authorize]
     [Area("Admin")]
 
     public class UsuariosController : Controller
