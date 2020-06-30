@@ -3367,12 +3367,18 @@
       "CSHSoft.Utilidades/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.UI": "3.1.3"
+        },
         "compile": {
           "bin/placeholder/CSHSoft.Utilidades.dll": {}
         },
         "runtime": {
           "bin/placeholder/CSHSoft.Utilidades.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -10058,23 +10064,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Pc\\.nuget\\packages\\": {},
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Desarrollos Web\\CSHSoft\\CSHSoft\\CSHSoft.csproj",
+      "projectUniqueName": "D:\\La Paz\\Tercer Año. Analista de sistemas\\Programación V\\Project\\CSHSoft\\CSHSoft\\CSHSoft\\CSHSoft.csproj",
       "projectName": "CSHSoft",
-      "projectPath": "C:\\Desarrollos Web\\CSHSoft\\CSHSoft\\CSHSoft.csproj",
-      "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Desarrollos Web\\CSHSoft\\CSHSoft\\obj\\",
+      "projectPath": "D:\\La Paz\\Tercer Año. Analista de sistemas\\Programación V\\Project\\CSHSoft\\CSHSoft\\CSHSoft\\CSHSoft.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "D:\\La Paz\\Tercer Año. Analista de sistemas\\Programación V\\Project\\CSHSoft\\CSHSoft\\CSHSoft\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10087,8 +10093,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Desarrollos Web\\CSHSoft\\CSHFSoft.AccesoDatos\\CSHFSoft.AccesoDatos.csproj": {
-              "projectPath": "C:\\Desarrollos Web\\CSHSoft\\CSHFSoft.AccesoDatos\\CSHFSoft.AccesoDatos.csproj"
+            "D:\\La Paz\\Tercer Año. Analista de sistemas\\Programación V\\Project\\CSHSoft\\CSHSoft\\CSHFSoft.AccesoDatos\\CSHFSoft.AccesoDatos.csproj": {
+              "projectPath": "D:\\La Paz\\Tercer Año. Analista de sistemas\\Programación V\\Project\\CSHSoft\\CSHSoft\\CSHFSoft.AccesoDatos\\CSHFSoft.AccesoDatos.csproj"
             }
           }
         }
@@ -10153,7 +10159,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -9,6 +9,8 @@
     <Compile Remove="Migrations\20200626021319_tablaVeterinario.Designer.cs" />
     <Compile Remove="Migrations\20200626032837_tablaVeterinario.cs" />
     <Compile Remove="Migrations\20200626032837_tablaVeterinario.Designer.cs" />
+    <Compile Remove="Migrations\20200626040554_tablaVeterinario.cs" />
+    <Compile Remove="Migrations\20200626040554_tablaVeterinario.Designer.cs" />
   </ItemGroup>
 
   <ItemGroup>

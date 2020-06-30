@@ -14,6 +14,8 @@ using Microsoft.Extensions.Hosting;
 using CSHSoft.AccesoDatos.Data;
 using CSHFSoft.AccesoDatos.Data.Repository;
 using CSHFSoft.AccesoDatos.Data;
+using Microsoft.AspNetCore.Identity.UI.Services;
+using CSHSoft.Utilidades;
 
 namespace CSHSoft
 {
@@ -32,8 +34,12 @@ namespace CSHSoft
             services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlServer(
                     Configuration.GetConnectionString("DefaultConnection")));
-            services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
-                .AddEntityFrameworkStores<ApplicationDbContext>();
+            services.AddIdentity<IdentityUser, IdentityRole>(options => options.SignIn.RequireConfirmedAccount = true)
+                .AddEntityFrameworkStores<ApplicationDbContext>()
+                .AddDefaultTokenProviders();
+
+            services.AddSingleton<IEmailSender, EmailSender>();
+
             services.AddScoped<IContenedorTrabajo, ContenedorTrabajo>();
             services.AddControllersWithViews().AddRazorRuntimeCompilation();
             services.AddRazorPages();

@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace CSHFSoft.AccesoDatos.Migrations
 {
-    public partial class tablaVeterinario : Migration
+    public partial class CSHSoft : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

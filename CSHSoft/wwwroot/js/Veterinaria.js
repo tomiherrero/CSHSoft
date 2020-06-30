@@ -15,11 +15,11 @@ function cargarDatatable() {
         "columns": [
            
             { "data": "idVeterinario", "width": "20%" },
-            { "data": "RazonSocial", "width": "20%" },
-            { "data": "Direccion", "width": "20%" },
-            { "data": "HorarioAtencion", "width": "20%" },
-            { "data": "Internacion", "width": "20%" },
-            { "data": "Observaciones", "width": "20%" },
+            { "data": "razonSocial", "width": "20%" },
+            { "data": "direccion", "width": "20%" },
+            { "data": "horarioAtencion", "width": "20%" },
+            { "data": "internacion", "width": "20%" },
+            { "data": "observaciones", "width": "20%" },
             {
                 "data": "idVeterinario",
                 "render": function (data) {
