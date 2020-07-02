@@ -50,12 +50,12 @@ namespace CSHSoft.Areas.Identity.Pages.Account
 
         public class InputModel
         {
-            [Required]
-            [EmailAddress]
+            [Required(ErrorMessage = "El campo Email debe ser obligatorio")]
+            [EmailAddress(ErrorMessage = "El correo ingresado no es válido")]
             [Display(Name = "Email")]
             public string Email { get; set; }
 
-            [Required]
+            [Required(ErrorMessage = "El campo contraseña debe ser obligatorio")]
             [StringLength(100, ErrorMessage = "El {0} debe tener al menos {2} y un máximo de {1} caracteres de longitud.", MinimumLength = 6)]
             [DataType(DataType.Password)]
             [Display(Name = "Contraseña")]
@@ -73,6 +73,9 @@ namespace CSHSoft.Areas.Identity.Pages.Account
             public string Ciudad { get; set; }
 
             public string Pais { get; set; }
+
+            [Phone(ErrorMessage = "El número de teléfono ingresado no es válido")]
+            [Display(Name= "Teléfono")]            
             public string PhoneNumber { get; set; }
         }
 
@@ -127,8 +130,8 @@ namespace CSHSoft.Areas.Identity.Pages.Account
                     }
 
                     _logger.LogInformation("Usuario creado con éxito.");
-
-                    await _signInManager.SignInAsync(user, isPersistent: false);
+                    
+                    //await _signInManager.SignInAsync(user, isPersistent: false);
                     return LocalRedirect(returnUrl);
 
                     //var code = await _userManager.GenerateEmailConfirmationTokenAsync(user);
