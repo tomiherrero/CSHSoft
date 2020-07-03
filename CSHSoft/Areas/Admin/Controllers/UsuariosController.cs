@@ -4,6 +4,7 @@ using System.Linq;
 using System.Security.Claims;
 using System.Threading.Tasks;
 using CSHFSoft.AccesoDatos.Data.Repository;
+using CSHSoft.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.CodeAnalysis.CSharp.Syntax;
@@ -28,7 +29,7 @@ namespace CSHSoft.Areas.Admin.Controllers
             var usuarioActual = claimsIdentity.FindFirst(ClaimTypes.NameIdentifier);
             return View(_contenedorTrabajo.Usuario.GetAll(u => u.Id != usuarioActual.Value));
         }
-        public IActionResult Bloquear(string id)
+        public IActionResult Bloquear(string id, Auditoria auditoria)
         {
             if (id == null)
             {
@@ -37,9 +38,14 @@ namespace CSHSoft.Areas.Admin.Controllers
             }
 
             _contenedorTrabajo.Usuario.BloqueaUsuario(id);
+            _contenedorTrabajo.Auditoria.Add(auditoria);
+            auditoria.nombreUsuario = @User.Identity.Name;
+            auditoria.fecha = DateTime.Now;
+            auditoria.accion = "Bloqueo usuario con id " + id;
+            _contenedorTrabajo.Save();
             return RedirectToAction(nameof(Index));
         }
-        public IActionResult Desbloquear(string id)
+        public IActionResult Desbloquear(string id, Auditoria auditoria)
         {
             if (id == null)
             {
@@ -48,6 +54,11 @@ namespace CSHSoft.Areas.Admin.Controllers
             }
 
             _contenedorTrabajo.Usuario.DesbloquearUsuario(id);
+            _contenedorTrabajo.Auditoria.Add(auditoria);
+            auditoria.nombreUsuario = @User.Identity.Name;
+            auditoria.fecha = DateTime.Now;
+            auditoria.accion = "Desbloqueo usuario con id " + id;
+            _contenedorTrabajo.Save();
             return RedirectToAction(nameof(Index));
         }
     }

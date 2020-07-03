@@ -16,5 +16,6 @@ namespace CSHSoft.AccesoDatos.Data
 
         public DbSet<Veterinario> Veterinario { get; set; }
         public DbSet<ApplicationUser> ApplicationUser { get; set; }
+        public DbSet<Auditoria> Auditoria { get; set; }
     }
 }

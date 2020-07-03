@@ -26,7 +26,6 @@ C:\Users\Usuario.WIN-24DGLIIQGDS\Desktop\Csh\CSHSoft\CSHSoft.Models\obj\Debug\ne
 C:\Desarrollos Web\CSHSoft\CSHSoft.Models\bin\Debug\netcoreapp3.1\CSHSoft.Models.deps.json
 C:\Desarrollos Web\CSHSoft\CSHSoft.Models\bin\Debug\netcoreapp3.1\CSHSoft.Models.dll
 C:\Desarrollos Web\CSHSoft\CSHSoft.Models\bin\Debug\netcoreapp3.1\CSHSoft.Models.pdb
-C:\Desarrollos Web\CSHSoft\CSHSoft.Models\obj\Debug\netcoreapp3.1\CSHSoft.Models.csprojAssemblyReference.cache
 C:\Desarrollos Web\CSHSoft\CSHSoft.Models\obj\Debug\netcoreapp3.1\CSHSoft.Models.csproj.CoreCompileInputs.cache
 C:\Desarrollos Web\CSHSoft\CSHSoft.Models\obj\Debug\netcoreapp3.1\CSHSoft.Models.AssemblyInfoInputs.cache
 C:\Desarrollos Web\CSHSoft\CSHSoft.Models\obj\Debug\netcoreapp3.1\CSHSoft.Models.AssemblyInfo.cs
@@ -42,3 +41,4 @@ C:\Users\Usuario.WIN-24DGLIIQGDS\Desktop\CSH!\CSHSoft\CSHSoft.Models\obj\Debug\n
 C:\Users\Usuario.WIN-24DGLIIQGDS\Desktop\CSH!\CSHSoft\CSHSoft.Models\obj\Debug\netcoreapp3.1\CSHSoft.Models.csproj.CoreCompileInputs.cache
 C:\Users\Usuario.WIN-24DGLIIQGDS\Desktop\CSH!\CSHSoft\CSHSoft.Models\obj\Debug\netcoreapp3.1\CSHSoft.Models.dll
 C:\Users\Usuario.WIN-24DGLIIQGDS\Desktop\CSH!\CSHSoft\CSHSoft.Models\obj\Debug\netcoreapp3.1\CSHSoft.Models.pdb
+C:\Desarrollos Web\CSHSoft\CSHSoft.Models\obj\Debug\netcoreapp3.1\CSHSoft.Models.csprojAssemblyReference.cache

@@ -14,6 +14,7 @@ namespace CSHSoft.Areas.Admin.Controllers
     public class VeterinariosController : Controller
     {
         private readonly IContenedorTrabajo _contenedorTrabajo;
+     
 
         public VeterinariosController(IContenedorTrabajo contenedorTrabajo)
         {
@@ -34,12 +35,18 @@ namespace CSHSoft.Areas.Admin.Controllers
 
         [HttpPost]
         [AutoValidateAntiforgeryToken]
-        public IActionResult Create(Veterinario veterinario)
+        public IActionResult Create(Veterinario veterinario, Auditoria auditoria)
         {
             if (ModelState.IsValid)
             {
                 _contenedorTrabajo.Veterinario.Add(veterinario);
                 _contenedorTrabajo.Save();
+                auditoria.nombreUsuario = @User.Identity.Name;
+                auditoria.fecha = DateTime.Now;
+                auditoria.accion = "Alta Veterinario";
+                _contenedorTrabajo.Auditoria.Add(auditoria);
+                _contenedorTrabajo.Save();
+
                 return RedirectToAction(nameof(Index));
             }
 
@@ -61,11 +68,15 @@ namespace CSHSoft.Areas.Admin.Controllers
 
         [HttpPost]
         [AutoValidateAntiforgeryToken]
-        public IActionResult Edit(Veterinario veterinario)
+        public IActionResult Edit(Veterinario veterinario, Auditoria auditoria)
         {
             if (ModelState.IsValid)
             {
                 _contenedorTrabajo.Veterinario.Update(veterinario);
+                auditoria.nombreUsuario = @User.Identity.Name;
+                auditoria.fecha = DateTime.Now;
+                auditoria.accion = "Edicion Veterinario";
+                _contenedorTrabajo.Auditoria.Add(auditoria);
                 _contenedorTrabajo.Save();
                 return RedirectToAction(nameof(Index));
             }
@@ -80,7 +91,7 @@ namespace CSHSoft.Areas.Admin.Controllers
         }
 
         [HttpDelete]
-        public IActionResult Delete(int id)
+        public IActionResult Delete(int id, Auditoria auditoria)
         {
             var objeto = _contenedorTrabajo.Veterinario.Get(id);
             if (objeto == null)
@@ -89,8 +100,12 @@ namespace CSHSoft.Areas.Admin.Controllers
             }
 
             _contenedorTrabajo.Veterinario.Remove(objeto);
+            _contenedorTrabajo.Auditoria.Add(auditoria);
+            auditoria.nombreUsuario = @User.Identity.Name;
+            auditoria.fecha = DateTime.Now;
+            auditoria.accion = "Eliminado Veterinario";
             _contenedorTrabajo.Save();
-            return Json(new { success = true, message = "Veterinario borrado correctamente" });
+            return Json(new { success = true, message = "Veterinario Eliminado correctamente" });
         }
         #endregion
     }
